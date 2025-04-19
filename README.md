@@ -22,7 +22,7 @@
 | Title                                                   | Description                                                                                 | Status      |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------- |
 | [HueNote](https://www.producthunt.com/products/huenote) | A PDF highlighter that lets you organize and export your highlights by color                | Maintenance |
-| [LazyDaisy](https://github.com/ralphbibera/lazydaisy)   | A collection of accessible and styled components built with DaisyUI + React Aria Components | In Progress |
+| [Lazy Daisy](https://github.com/ralphbibera/lazy-daisy) | A collection of accessible and styled components built with DaisyUI + React Aria Components | In Progress |
 
 <br>
 
