@@ -19,10 +19,10 @@
 
 ### 🚀 Projects
 
-| Title                                                   | Description                                                                  | Status      |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------- |
-| [HueNote](https://www.producthunt.com/products/huenote) | A PDF highlighter that lets you organize and export your highlights by color | Maintenance |
-| ???                                                     | React component library with DaisyUI + React Aria Components                 | In Progress |
+| Title                                                   | Description                                                                                 | Status      |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------- |
+| [HueNote](https://www.producthunt.com/products/huenote) | A PDF highlighter that lets you organize and export your highlights by color                | Maintenance |
+| [LazyDaisy](https://github.com/ralphbibera/lazydaisy)   | A collection of accessible and styled components built with DaisyUI + React Aria Components | In Progress |
 
 <br>
 
