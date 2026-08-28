@@ -21,7 +21,7 @@
 
 | Title                                                   | Description                                                                                 | Status       |
 | ------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------ |
-| [RateMyCondo.ph](https://ratemycondo.ph)                | A community-driven platform for authentic condo reviews and insights in the Philippines.    | In-Progress  |
+| [RateMyCondo.ph](https://ratemycondo.ph)                | A community-driven platform for authentic condo reviews and insights in the Philippines.    | Discontinued  |
 | [HueNote](https://www.producthunt.com/products/huenote) | A PDF highlighter that lets you organize and export your highlights by color                | Discontinued |
 | [Lazy Daisy](https://github.com/ralphbibera/lazy-daisy) | A collection of accessible and styled components built with DaisyUI + React Aria Components | Discontinued |
 
