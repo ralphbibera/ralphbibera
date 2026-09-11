@@ -1,7 +1,9 @@
 # Hi, I'm [Ralph Bibera](https://ralphbibera.com) 👋
 
-- 📚 I've been actively learning, building, and messing around with code for over 2 years
-- 🐍 I'm currently diving into **Python**, **data structures**, and **algorithms**
+I'm a software engineer focused on **backend systems, platform engineering, and cloud infrastructure**. I build APIs and event-driven services, automate workflows, and improve production reliability.
+
+My work spans Go services on AWS, PostgreSQL data systems, CI/CD pipelines, and AI-assisted applications. At Citro, I work on infrastructure, developer tooling, and workflows that combine AI automation with human review.
+
 - 🧰 I've worked with the following technologies:
 
   - **Languages**: Go, PHP, TypeScript, JavaScript
