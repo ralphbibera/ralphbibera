@@ -14,16 +14,13 @@
 
 ### 🧾 Certifications
 
-- AWS Certified Cloud Practitioner
-- GitHub Actions Certified
+- **AWS Certified Solutions Architect - Associate** (February 2026)
+- **GitHub Actions Certification** (February 2025)
+- **AWS Certified Cloud Practitioner** (September 2024)
 
-### 🚀 Projects
+### 🚀 Project
 
-| Title                                                   | Description                                                                                 | Status       |
-| ------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------ |
-| [RateMyCondo.ph](https://ratemycondo.ph)                | A community-driven platform for authentic condo reviews and insights in the Philippines.    | In-Progress  |
-| [HueNote](https://www.producthunt.com/products/huenote) | A PDF highlighter that lets you organize and export your highlights by color                | Discontinued |
-| [Lazy Daisy](https://github.com/ralphbibera/lazy-daisy) | A collection of accessible and styled components built with DaisyUI + React Aria Components | Discontinued |
+[**Commonspace**](https://github.com/ralphbibera/commonspace) is an open-source workspace for collaborating with local coding agents across shared conversations, projects, and threads.
 
 <br>
 
