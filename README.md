@@ -4,15 +4,16 @@ I'm a software engineer focused on **backend systems, platform engineering, and 
 
 My work spans Go services on AWS, PostgreSQL data systems, CI/CD pipelines, and AI-assisted applications. At Citro, I work on infrastructure, developer tooling, and workflows that combine AI automation with human review.
 
-- 🧰 I've worked with the following technologies:
+### 🧰 Technologies
 
-  - **Languages**: Go, PHP, TypeScript, JavaScript
-
-  - **Frameworks**: React, Next.js, Laravel
-
-  - **Services**: AWS, DigitalOcean, Firebase, Supabase
-
-  - **Tools**: Docker, Postman, TablePlus
+| Category | Technologies |
+|---|---|
+| **Languages** | Go, TypeScript, JavaScript, Python, PHP, Bash, SQL |
+| **Backend & APIs** | Laravel, Fiber, Express, REST, GraphQL |
+| **Frontend & Mobile** | React, Next.js, React Native, Expo/EAS, Vite |
+| **Cloud & DevOps** | AWS, Terraform, Docker, GitHub Actions, Fly.io, EAS Workflows, DigitalOcean |
+| **Data & Observability** | PostgreSQL, Supabase, Firebase, Datadog |
+| **AI & Agent Systems** | Google ADK, Gemini, MCP, ACP |
 
 ### 🧾 Certifications
 
