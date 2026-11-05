@@ -21,11 +21,9 @@ My work spans Go and Python services on AWS, TypeScript and React apps, PostgreS
 - **GitHub Actions Certification** (February 2025)
 - **AWS Certified Cloud Practitioner** (September 2024)
 
-### 🚀 Projects
+### 🚀 Project
 
 [**Cal.flare**](https://github.com/ralphbibera/cal.flare) is an open-source scheduling platform on Cloudflare Workers and D1, ported from Cal.diy, the community edition of Cal.com.
-
-[**GitGud**](https://github.com/zesthq/gitgud) is a GitHub Action that generates a quiz from a pull request's code changes. The author passes it before the check succeeds.
 
 <br>
 
