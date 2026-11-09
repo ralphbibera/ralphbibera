@@ -1,8 +1,8 @@
 # Hi, I'm [Ralph Bibera](https://ralphbibera.com) 👋
 
-I'm a software engineer focused on **backend systems, platform engineering, and cloud infrastructure**. I build APIs and event-driven services, automate workflows, and improve production reliability.
+I'm a software engineer focused on **applied AI and full stack development**. I build AI features and agent and workflow automation, and ship the full app around them.
 
-My work spans Go services on AWS, PostgreSQL data systems, CI/CD pipelines, and AI-assisted applications. At Citro, I work on infrastructure, developer tooling, and workflows that combine AI automation with human review.
+My work spans Go and Python services on AWS, TypeScript and React apps, PostgreSQL data, and Terraform infrastructure. At Citro, I work on infrastructure, developer tooling, and workflows that combine AI automation with human review.
 
 ### 🧰 Technologies
 
@@ -23,7 +23,7 @@ My work spans Go services on AWS, PostgreSQL data systems, CI/CD pipelines, and 
 
 ### 🚀 Project
 
-[**Commonspace**](https://github.com/ralphbibera/commonspace) is an open-source workspace for collaborating with local coding agents across shared conversations, projects, and threads.
+[**Cal.flare**](https://github.com/ralphbibera/cal.flare) is an open-source scheduling platform on Cloudflare Workers and D1, ported from Cal.diy, the community edition of Cal.com.
 
 <br>
 
