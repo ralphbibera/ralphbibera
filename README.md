@@ -2,7 +2,7 @@
 
 I'm a software engineer focused on **applied AI and full stack development**. I build AI features and agent and workflow automation, and ship the full app around them.
 
-My work spans Go and Python services on AWS, TypeScript and React apps, PostgreSQL data, and Terraform infrastructure. At Citro, I work on infrastructure, developer tooling, and workflows that combine AI automation with human review.
+My work spans Go and Python services on AWS, TypeScript and React apps, PostgreSQL data, and Terraform infrastructure. I was a Software Engineer at Citro from Jun 2025 to Nov 2026, until the company closed. I worked on infrastructure, developer tooling, and workflows that combine AI automation with human review.
 
 ### 🧰 Technologies
 
@@ -21,9 +21,11 @@ My work spans Go and Python services on AWS, TypeScript and React apps, PostgreS
 - **GitHub Actions Certification** (February 2025)
 - **AWS Certified Cloud Practitioner** (September 2024)
 
-### 🚀 Project
+### 🚀 Projects
 
 [**Cal.flare**](https://github.com/ralphbibera/cal.flare) is an open-source scheduling platform on Cloudflare Workers and D1, ported from Cal.diy, the community edition of Cal.com.
+
+[**GitGud**](https://github.com/zesthq/gitgud) is a GitHub Action that runs pull-request quizzes before you merge.
 
 <br>
 
